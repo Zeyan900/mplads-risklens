@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "css-studio": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "cssstudio"
+      ]
+    }
+  }
+}
